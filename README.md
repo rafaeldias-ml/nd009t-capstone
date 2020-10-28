@@ -8,6 +8,7 @@ This repository contains code and associated files for Arvato's Customer Segment
 - [Project Structure](#projectstructure)
 - [Setup Instructions](#setup)
 - [Dataset](#dataset)
+- [Results] (#results)
 - [References](#references)
 - [Acknowledges](#acknowledges)
 
@@ -101,6 +102,13 @@ For second task (Customer Segmentation Report) the following datasets with demog
 For the third task, (Mail-order Response Prediction) the following datasets with demographics data for targets of a marketing campaign shall be used:
 -   `Udacity_MAILOUT_052018_TRAIN.csv`: 42 982 persons (rows) x 367 (columns).
 -   `Udacity_MAILOUT_052018_TEST.csv`:  42 833 persons (rows) x 366 (columns).
+
+***
+<a id='results'></a>
+
+## Results
+
+Please check Medium [post](https://capixaba.medium.com/customer-segmentation-for-bertelsmann-arvato-financial-services-c0b85e65bf7e) for a detailed report.
 
 ***
 <a id='references'></a>

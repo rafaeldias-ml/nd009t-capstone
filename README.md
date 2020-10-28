@@ -8,7 +8,7 @@ This repository contains code and associated files for Arvato's Customer Segment
 - [Project Structure](#projectstructure)
 - [Setup Instructions](#setup)
 - [Dataset](#dataset)
-- [Results] (#results)
+- [Results](#results)
 - [References](#references)
 - [Acknowledges](#acknowledges)
 
